@@ -1,0 +1,7 @@
+::1 - GET / HTTP/1.1 200 - - 1.616 ms
+::1 - GET / HTTP/1.1 200 - - 0.151 ms
+::1 - GET / HTTP/1.1 200 - - 0.059 ms
+::1 - GET / HTTP/1.1 200 - - 0.056 ms
+::1 - GET /mine HTTP/1.1 200 - - 0.080 ms
+::1 - GET /mine?name=qiemer HTTP/1.1 200 - - 0.063 ms
+GET /mine?name=qiemer 200
