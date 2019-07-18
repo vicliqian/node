@@ -2,6 +2,9 @@
 
 c222222222
 333
+444
+
+555
 const sharedPropertyDefinition = {
     enumerable:true,
     configurable:true,
