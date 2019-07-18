@@ -1,7 +1,4 @@
-1
-2
--------------------
-    222222
+握手qimer
 const sharedPropertyDefinition = {
     enumerable:true,
     configurable:true,
