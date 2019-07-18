@@ -1,10 +1,4 @@
-测试后
-
-c222222222
-333
-444
-
-555
+new   aaaa
 const sharedPropertyDefinition = {
     enumerable:true,
     configurable:true,
