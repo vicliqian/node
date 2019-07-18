@@ -1,4 +1,6 @@
 测试后
+
+c222222222
 const sharedPropertyDefinition = {
     enumerable:true,
     configurable:true,
