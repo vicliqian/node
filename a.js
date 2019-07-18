@@ -1,4 +1,7 @@
-new   aaaa
+1
+2
+-------------------
+    222222
 const sharedPropertyDefinition = {
     enumerable:true,
     configurable:true,
