@@ -1,4 +1,4 @@
-握手qimer
+ liqian1111
 const sharedPropertyDefinition = {
     enumerable:true,
     configurable:true,
